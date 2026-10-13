@@ -1,0 +1,10 @@
+[
+  {
+    "name": "LLM",
+    "description": "根据输入生成文本或其他内容的模型"
+  },
+  {
+    "name": "tool",
+    "description": "Agent 可以调用的外部函数或服务"
+  }
+]
